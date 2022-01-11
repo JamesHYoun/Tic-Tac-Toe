@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Rules
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmathworld.wolfram.com%2FTic-Tac-Toe.html&psig=AOvVaw2wRpkOFr7g_gpEPg1_MKcB&ust=1641980070906000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLC3lMyyqfUCFQAAAAAdAAAAABAD) <br />
+![alt text](https://mathworld.wolfram.com/images/eps-gif/Tic-Tac-Toe_600.gif) <br />
 The image on the left depicts the initial board. The right depicts the end of the game.
 
 The game is played on a 3 x 3 grid of squares. <br/>
