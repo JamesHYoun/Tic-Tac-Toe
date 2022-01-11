@@ -1,7 +1,7 @@
 # Tic-Tac-Toe Rules
 
 ![alt text](https://mathworld.wolfram.com/images/eps-gif/Tic-Tac-Toe_600.gif) <br />
-The image on the left depicts the initial board. The right depicts the end of the game.
+The image on the left depicts the initial board. The right depicts the end of the game where X is the winner.
 
 The game is played on a 3 x 3 grid of squares. <br/>
 You can choose either X or O as your character, but your opponent has to pick a different one. <br/>
